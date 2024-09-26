@@ -67,7 +67,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/Amelie_50_1000_x_1000__97003_zoom.jpg
+          url: /images/choc 2.png
           altText: Pricing plan 1
         actions:
           - type: Button

@@ -69,7 +69,7 @@ sections:
             textAlign: justify
             borderRadius: large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
             borderColor: border-light
     variant: tabs-nav
     colors: bg-light-fg-dark

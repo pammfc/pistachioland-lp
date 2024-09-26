@@ -55,7 +55,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/AMELIE_6058_-_8_FOILED_CHERRY_LIQUEURS__46901_zoom.png
           altText: Featured item
           styles:
             self:

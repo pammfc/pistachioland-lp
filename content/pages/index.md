@@ -145,8 +145,8 @@ sections:
           amêndoa requintados e caramelos ao leite.
         features:
           - >-
-            Trinta chocolates soberbos, apresentados em uma caixa de presente
-            clássica.
+            Trinta chocolates soberbos, apresentados em uma linda caixa de
+            presente clássica.
         image:
           type: ImageBlock
           url: /images/choc 2.png

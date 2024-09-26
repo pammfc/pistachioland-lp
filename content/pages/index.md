@@ -57,9 +57,7 @@ sections:
         title: DIAMOND
         price: 'R$329,00'
         details: Valor mensal
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: "Selecionados da nossa melhor linha exclusiva, os recheios incluem\_sublimes ganaches de rum, gengibre e café, pralinés premiados e aveludados, caramelos e muito mais!\n\n\n\n\n\n\n"
         features:
           - Feature one
           - Feature two

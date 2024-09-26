@@ -70,7 +70,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: full
+            borderRadius: large
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem

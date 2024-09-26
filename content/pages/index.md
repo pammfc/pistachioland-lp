@@ -62,7 +62,9 @@ sections:
           - >-
             Apresentado em nossa caixa de lembrança, é um presente
             verdadeiramente elegante.
-          - Feature two
+          - >-
+            A caixa será enviada em todas as entregadas para assinaturas
+            supeiores a 12 meses.
           - Feature three
           - Feature four
         image:

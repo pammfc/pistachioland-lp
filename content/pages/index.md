@@ -46,7 +46,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Modalidades de Assinatura
       color: text-dark
       styles:
         self:

@@ -96,7 +96,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Escolha a Opção que Melhor se Adeque ao seu Gosto
+    subtitle: Exclusividade e Bom Gosto Entregues Todos os Meses na sua Casa
     plans:
       - type: PricingPlan
         title: DIAMOND

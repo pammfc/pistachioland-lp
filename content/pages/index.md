@@ -50,5 +50,6 @@ seo:
   metaTitle: Pistachio
   metaDescription: This demo site is built with Netlify Create.
   type: Seo
+  socialImage: /images/assortment-of-fine-chocolate-candies-white-dark-ZACYJ93-1200x800.jpg
 type: PageLayout
 ---

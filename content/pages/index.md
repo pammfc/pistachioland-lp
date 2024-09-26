@@ -68,7 +68,6 @@ sections:
           - >-
             Para assinaturas inferiores a doze meses a caixa será entregue
             apenas no primeiro mês (podendo ser adquirida separadamente)
-          - Feature four
         image:
           type: ImageBlock
           url: /images/Amelie_50_1000_x_1000__97003_zoom.jpg

@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Pistachio Land é onde vende bla bla
-      color: text-light
+      color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >

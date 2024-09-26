@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: La Mason du Chocolat
+      text: Chocolatier
       color: text-neutral
       type: TitleBlock
     subtitle: ''

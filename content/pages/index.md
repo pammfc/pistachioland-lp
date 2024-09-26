@@ -105,7 +105,7 @@ sections:
         description: "Cinquenta unidades Selecionadas da nossa melhor linha exclusiva, os recheios incluem\_sublimes ganaches de rum, gengibre e café, pralinés premiados e aveludados, caramelos e muito mais!\n"
         features:
           - >-
-            Apresentado em nossa caixade dois andares, é um presente
+            Apresentado em nossa caixa de dois andares, é um presente
             verdadeiramente elegante.
           - >-
             A caixa será enviada em todas as entregadas para assinaturas

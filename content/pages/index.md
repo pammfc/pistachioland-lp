@@ -55,7 +55,7 @@ sections:
     plans:
       - type: PricingPlan
         title: DIAMOND
-        price: Customise sua BOX
+        price: Sua BOX do seu jeito
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem

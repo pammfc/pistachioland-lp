@@ -183,7 +183,7 @@ sections:
             label: Assine Já
             url: /
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             showIcon: true
         colors: bg-light-fg-dark

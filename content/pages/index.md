@@ -55,7 +55,7 @@ sections:
     plans:
       - type: PricingPlan
         title: DIAMOND
-        price: Sua BOX do seu jeito
+        price: 'R$199,90'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem

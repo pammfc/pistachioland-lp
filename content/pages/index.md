@@ -56,7 +56,7 @@ sections:
       - type: PricingPlan
         title: DIAMOND
         price: 'R$199,90'
-        details: 50 chocolates sortidos
+        details: Valor mensal
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.

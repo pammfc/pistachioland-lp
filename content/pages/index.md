@@ -119,7 +119,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: GOLD
-        price: Custom
+        price: 'R$ 99,90'
         details: Valor mensal
         description: >+
           Delicie-se com um delicioso pacote de degustação com quinze excelentes

@@ -57,7 +57,7 @@ sections:
         title: DIAMOND
         price: 'R$359,00'
         details: Valor mensal
-        description: "50 unidades Selecionadas da nossa melhor linha exclusiva, os recheios incluem\_sublimes ganaches de rum, gengibre e café, pralinés premiados e aveludados, caramelos e muito mais!\n"
+        description: "Cinquenta unidades Selecionadas da nossa melhor linha exclusiva, os recheios incluem\_sublimes ganaches de rum, gengibre e café, pralinés premiados e aveludados, caramelos e muito mais!\n"
         features:
           - >-
             Apresentado em nossa caixa de lembrança, é um presente

@@ -48,7 +48,7 @@ sections:
       - type: FeaturedItem
         title: DESCUBRA O SABOR DAS NOSSAS CEREJAS
         tagline: Feature 1
-        subtitle: kkkk
+        subtitle: ''
         text: "Chocolate belga unindo-se às cerejas amarena duplamente cobertas em licores de cereja vermelha tradicionais, delicadamente embaladas em papel alumínio.\_\n"
         image:
           type: ImageBlock

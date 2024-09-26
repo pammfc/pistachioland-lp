@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Chocolatier
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >+

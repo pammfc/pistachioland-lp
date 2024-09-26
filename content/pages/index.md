@@ -102,7 +102,6 @@ sections:
           - >-
             Trinta chocolates soberbos, apresentados em uma caixa de presente
             clássica.
-          - Feature two
           - Feature three
           - Feature four
         image:

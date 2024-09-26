@@ -172,10 +172,10 @@ sections:
         title: RUBY
         price: 'R$ 99,90'
         details: Valor mensal
-        description: >+
-          Delicie-se com um delicioso pacote de degustação com quinze excelentes
-          chocolates belgas... um pedacinho do paraíso em uma caixa!
-
+        description: >
+          Delicie-se com um incrível pacote de degustação contendo quinze
+          excelentes chocolates belgas. Um pedacinho do paraíso dentro de uma
+          caixa!
         features:
           - >-
             Feitos com os melhores ingredientes, os recheios incluem ganaches de

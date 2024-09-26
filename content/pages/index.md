@@ -8,8 +8,9 @@ sections:
       color: text-neutral
       type: TitleBlock
     subtitle: ''
-    text: |
-      *Chocolates artesanais feitos como jóias gastronômicas.*
+    text: |+
+      #### *Chocolates artesanais feitos como jóias gastronômicas.*
+
     actions:
       - label: Comprar agora
         altText: ''

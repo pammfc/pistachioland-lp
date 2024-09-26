@@ -108,8 +108,8 @@ sections:
             Apresentado em nossa caixa de dois andares, é um presente
             verdadeiramente elegante.
           - >-
-            A caixa será enviada em todas as entregadas para assinaturas
-            supeiores a 12 meses.
+            A caixa será enviada em todas as entregas para assinaturas supeiores
+            a doze meses.
           - >-
             Para assinaturas inferiores a doze meses a caixa será entregue
             apenas no primeiro mês (podendo ser adquirida separadamente)

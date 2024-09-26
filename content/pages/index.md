@@ -88,7 +88,7 @@ sections:
       - type: PricingPlan
         title: RUBY
         price: $99
-        details: per month
+        details: Valor mensal
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.

@@ -55,7 +55,7 @@ sections:
     plans:
       - type: PricingPlan
         title: DIAMOND
-        price: 'R$199,90'
+        price: 'R$359,00'
         details: Valor mensal
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem

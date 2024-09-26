@@ -87,7 +87,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: RUBY
-        price: 'R$183,00'
+        price: 'R$180,50'
         details: Valor mensal
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem

@@ -20,7 +20,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "#",
             "icon": "youtube",
             "type": "Social"
         }

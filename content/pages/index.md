@@ -202,7 +202,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Contact us
+            label: Assine Agora
             url: /
             icon: arrowRight
             iconPosition: right

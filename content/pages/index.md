@@ -13,7 +13,7 @@ sections:
       jóias gastronômicas.*</div>
 
     actions:
-      - label: Comprar agora
+      - label: CONHEÇA A COLEÇÃO
         altText: ''
         url: /
         showIcon: false

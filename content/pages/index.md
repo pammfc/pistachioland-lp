@@ -24,7 +24,8 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/assortment-of-fine-chocolate-candies-white-dark-ZACYJ93-1200x800.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

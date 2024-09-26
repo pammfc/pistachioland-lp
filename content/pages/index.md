@@ -92,9 +92,12 @@ sections:
         title: RUBY
         price: 'R$180,50'
         details: Valor mensal
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Uma seleção colorida de trinta chocolates belgas de leite. Os recheios
+          de dar água na boca incluem uma variedade de pralinés com sabores
+          tradicionais, creme brulees suaves e aveludados, florentinos de
+          amêndoa requintados e caramelos de leite.
+
         features:
           - Feature one
           - Feature two

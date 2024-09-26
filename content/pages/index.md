@@ -47,7 +47,7 @@ sections:
       subtitle:
         fontWeight: 700
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Pistachio
   metaDescription: This demo site is built with Netlify Create.
   type: Seo
 type: PageLayout

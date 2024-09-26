@@ -51,7 +51,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Escolha a opção que melhor se adeque ao seu gosto
+    subtitle: Escolha a Opção que Melhor se Adeque ao seu Gosto
     plans:
       - type: PricingPlan
         title: Developers

@@ -57,7 +57,16 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: EU QUERO
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -67,10 +76,11 @@ sections:
               - pl-9
               - pr-9
             textAlign: justify
-            borderRadius: large
+            borderRadius: xx-small
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
             borderColor: border-light
+            borderWidth: 8
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
@@ -86,7 +96,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Escolha a Opção que Melhor se Adeque ao seu Gosto
+    subtitle: EXCLUSIVIDADE E BOM GOSTO ENTREGUES TODO MÊS NA SUA CASA
     plans:
       - type: PricingPlan
         title: DIAMOND
@@ -95,11 +105,11 @@ sections:
         description: "Cinquenta unidades Selecionadas da nossa melhor linha exclusiva, os recheios incluem\_sublimes ganaches de rum, gengibre e café, pralinés premiados e aveludados, caramelos e muito mais!\n"
         features:
           - >-
-            Apresentado em nossa caixade dois andares, é um presente
+            Apresentado em nossa caixa de dois andares, é um presente
             verdadeiramente elegante.
           - >-
-            A caixa será enviada em todas as entregadas para assinaturas
-            supeiores a 12 meses.
+            A caixa será enviada em todas as entregas para assinaturas supeiores
+            a doze meses.
           - >-
             Para assinaturas inferiores a doze meses a caixa será entregue
             apenas no primeiro mês (podendo ser adquirida separadamente)
@@ -128,16 +138,15 @@ sections:
         title: GOLD
         price: 'R$180,50'
         details: Valor mensal
-        description: >+
-          Uma seleção colorida de trinta chocolates belgas de leite. Os recheios
+        description: >
+          Uma seleção colorida de trinta chocolates belgas ao leite. Os recheios
           de dar água na boca incluem uma variedade de pralinés com sabores
           tradicionais, creme brulees suaves e aveludados, florentinos de
-          amêndoa requintados e caramelos de leite.
-
+          amêndoa requintados e caramelos ao leite!
         features:
           - >-
-            Trinta chocolates soberbos, apresentados em uma caixa de presente
-            clássica.
+            Trinta chocolates soberbos, apresentados em uma linda caixa de
+            presente clássica.
         image:
           type: ImageBlock
           url: /images/choc 2.png
@@ -163,15 +172,14 @@ sections:
         title: RUBY
         price: 'R$ 99,90'
         details: Valor mensal
-        description: >+
-          Delicie-se com um delicioso pacote de degustação com quinze excelentes
-          chocolates belgas... um pedacinho do paraíso em uma caixa!
-
+        description: >
+          Delicie-se com um incrível pacote de degustação contendo quinze
+          excelentes chocolates belgas. Um pedacinho do paraíso dentro de uma
+          caixa!
         features:
           - >-
             Feitos com os melhores ingredientes, os recheios incluem ganaches de
-            cappuccino e rum, pralinés tradicionais aveludados e suaves,
-            caramelos
+            cappuccino e rum, pralinés tradicionais suaves e caramelos.
         image:
           type: ImageBlock
           url: >-

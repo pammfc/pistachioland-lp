@@ -59,7 +59,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: CONHEÇA A COLEÇÃO
+            label: EU QUERO
             altText: ''
             url: /
             showIcon: false

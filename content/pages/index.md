@@ -96,7 +96,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Exclusividade e Bom Gosto Entregues Todos os Meses na sua Casa
+    subtitle: EXCLUSIVIDADE E BOM GOSTO ENTREGUES TODO MÊS NA SUA CASA
     plans:
       - type: PricingPlan
         title: DIAMOND

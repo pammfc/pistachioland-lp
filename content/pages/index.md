@@ -26,7 +26,7 @@ sections:
     media:
       url: >-
         /images/assortment-of-fine-chocolate-candies-white-dark-ZACYJ93-1200x800.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Pistachioland - La Mason du Chocolat
       elementId: ''
       type: ImageBlock
     elementId: ''

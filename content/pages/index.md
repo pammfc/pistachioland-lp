@@ -49,7 +49,7 @@ sections:
         title: DESCUBRA O SABOR DAS NOSSAS CEREJAS
         tagline: Feature 1
         subtitle: ''
-        text: "Chocolate belga unindo-se às cerejas amarena duplamente cobertas em licores de cereja vermelha tradicionais, delicadamente envolvidas em papel alumínio.\_\n"
+        text: "Chocolate belga unindo-se às cerejas amarena duplamente cobertas em licores de cereja vermelha tradicionais, delicadamente embaladas em papel alumínio.\_\n"
         image:
           type: ImageBlock
           url: /images/AMELIE_6058_-_8_FOILED_CHERRY_LIQUEURS__46901_zoom.png

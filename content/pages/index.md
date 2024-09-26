@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Pistachio Land é onde vende bla bla
+      text: La Mason du Chocolat
       color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here

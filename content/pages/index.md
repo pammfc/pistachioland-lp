@@ -67,7 +67,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: justify
-            borderRadius: x-small
+            borderRadius: large
             flexDirection: row
             justifyContent: flex-start
             borderColor: border-light

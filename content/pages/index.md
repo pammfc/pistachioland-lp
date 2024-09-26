@@ -120,7 +120,7 @@ sections:
       - type: PricingPlan
         title: GOLD
         price: Custom
-        details: per month
+        details: Valor mensal
         description: >+
           Delicie-se com um delicioso pacote de degustação com quinze excelentes
           chocolates belgas... um pedacinho do paraíso em uma caixa!

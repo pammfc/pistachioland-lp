@@ -1,10 +1,5 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "O chocolate perfeito\n",
+    "text": "Chocolatier Franquias\nSince 1999\n",
     "socialLinks": [
         {
             "altText": "GitHub link",
@@ -26,7 +21,7 @@
         }
     ],
     "legalLinks": [],
-    "copyrightText": "Feito por [Pamela Cortasio](https://www.linkedin.com/in/)\n",
+    "copyrightText": "*Feito por* [Pamela Cortasio](https://www.linkedin.com/in/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

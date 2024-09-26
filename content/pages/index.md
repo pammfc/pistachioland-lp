@@ -148,7 +148,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: RUBY
+        title: GOLD
         price: 'R$180,50'
         details: Valor mensal
         description: >+

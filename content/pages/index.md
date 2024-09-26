@@ -148,6 +148,7 @@ sections:
             icon: arrowRight
             iconPosition: left
             style: secondary
+            showIcon: true
         colors: bg-light-fg-dark
         styles:
           self:

@@ -130,7 +130,6 @@ sections:
             Feitos com os melhores ingredientes, os recheios incluem ganaches de
             cappuccino e rum, pralinés tradicionais aveludados e suaves,
             caramelos
-          - Feature five
         image:
           type: ImageBlock
           url: >-

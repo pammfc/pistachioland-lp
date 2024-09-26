@@ -72,7 +72,7 @@ sections:
             textAlign: justify
             borderRadius: large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
             borderColor: border-light
       - type: FeaturedItem
         title: Business Consulting

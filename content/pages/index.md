@@ -54,7 +54,7 @@ sections:
     subtitle: Escolha a Opção que Melhor se Adeque ao seu Gosto
     plans:
       - type: PricingPlan
-        title: Developers
+        title: DIAMOND
         price: Free
         details: No credit card required
         description: >-

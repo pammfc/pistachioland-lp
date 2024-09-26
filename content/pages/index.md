@@ -68,7 +68,7 @@ sections:
               - pr-9
             textAlign: justify
             borderRadius: large
-            flexDirection: row
+            flexDirection: row-reverse
             justifyContent: center
             borderColor: border-light
     variant: tabs-nav

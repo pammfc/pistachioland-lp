@@ -131,7 +131,6 @@ sections:
             cappuccino e rum, pralinés tradicionais aveludados e suaves,
             caramelos
           - Feature three
-          - Feature four
           - Feature five
         image:
           type: ImageBlock

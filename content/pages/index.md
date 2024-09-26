@@ -167,7 +167,7 @@ sections:
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: Assine Agora
+            label: Assine Já
             url: /
             icon: arrowRight
             iconPosition: right

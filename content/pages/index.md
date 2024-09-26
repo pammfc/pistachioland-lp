@@ -71,6 +71,7 @@ sections:
             flexDirection: row
             justifyContent: flex-start
             borderColor: border-light
+            borderWidth: 8
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:

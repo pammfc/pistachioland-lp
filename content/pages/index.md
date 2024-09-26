@@ -71,7 +71,7 @@ sections:
               - pr-9
             textAlign: justify
             borderRadius: large
-            flexDirection: col
+            flexDirection: row
             justifyContent: center
             borderColor: border-light
       - type: FeaturedItem

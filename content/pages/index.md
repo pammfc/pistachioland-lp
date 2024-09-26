@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Chocolates artesanais feitos como jóias gastronômicas.
+      *Chocolates artesanais feitos como jóias gastronômicas.*
     actions:
       - label: Comprar agora
         altText: ''

@@ -40,6 +40,8 @@ sections:
           - pr-16
       subtitle:
         fontWeight: 700
+      text:
+        textAlign: justify
 seo:
   metaTitle: Pistachio
   metaDescription: This demo site is built with Netlify Create.

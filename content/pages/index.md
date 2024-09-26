@@ -73,6 +73,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-light
       - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2

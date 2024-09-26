@@ -49,10 +49,7 @@ sections:
         title: Social Media Management
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Chocolate belga unindo-se à cerejas amarena duplamente cobertas em licores de cereja vermelha tradicionais, delicadamente envolvidas em papel alumínio.\_\n\n"
         image:
           type: ImageBlock
           url: /images/AMELIE_6058_-_8_FOILED_CHERRY_LIQUEURS__46901_zoom.png

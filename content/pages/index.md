@@ -138,12 +138,11 @@ sections:
         title: GOLD
         price: 'R$180,50'
         details: Valor mensal
-        description: >+
-          Uma seleção colorida de trinta chocolates belgas de leite. Os recheios
+        description: >
+          Uma seleção colorida de trinta chocolates belgas ao leite. Os recheios
           de dar água na boca incluem uma variedade de pralinés com sabores
           tradicionais, creme brulees suaves e aveludados, florentinos de
-          amêndoa requintados e caramelos de leite.
-
+          amêndoa requintados e caramelos ao leite.
         features:
           - >-
             Trinta chocolates soberbos, apresentados em uma caixa de presente

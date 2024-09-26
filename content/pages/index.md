@@ -147,7 +147,7 @@ sections:
             label: Assine Já
             url: /
             icon: arrowRight
-            iconPosition: left
+            iconPosition: right
             style: secondary
             showIcon: true
         colors: bg-light-fg-dark

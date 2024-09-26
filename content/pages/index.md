@@ -22,15 +22,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       url: >-
         /images/assortment-of-fine-chocolate-candies-white-dark-ZACYJ93-1200x800.jpg

@@ -99,7 +99,9 @@ sections:
           amêndoa requintados e caramelos de leite.
 
         features:
-          - Feature one
+          - >-
+            Trinta chocolates soberbos, apresentados em uma caixa de presente
+            clássica.
           - Feature two
           - Feature three
           - Feature four

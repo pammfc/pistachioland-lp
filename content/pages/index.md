@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
 
     actions:
-      - label: Get started
+      - label: Comprar agora
         altText: ''
         url: /
         showIcon: false

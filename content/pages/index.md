@@ -59,7 +59,9 @@ sections:
         details: Valor mensal
         description: "Selecionados da nossa melhor linha exclusiva, os recheios incluem\_sublimes ganaches de rum, gengibre e café, pralinés premiados e aveludados, caramelos e muito mais!\n\n\n\n\n\n\n"
         features:
-          - Feature one
+          - >-
+            Apresentado em nossa caixa de lembrança de designer, esta linda
+            variedade é um presente verdadeiramente elegante.
           - Feature two
           - Feature three
           - Feature four

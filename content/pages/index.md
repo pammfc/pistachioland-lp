@@ -65,7 +65,9 @@ sections:
           - >-
             A caixa será enviada em todas as entregadas para assinaturas
             supeiores a 12 meses.
-          - Feature three
+          - >-
+            Para assinaturas inferiores a doze meses a caixa será entregue
+            apenas no primeiro mês (podendo ser adquirida separadamente)
           - Feature four
         image:
           type: ImageBlock

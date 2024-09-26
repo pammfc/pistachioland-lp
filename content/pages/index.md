@@ -4,15 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Pistachio Land é onde vende bla bla
+      text: La Mason du Chocolat
       color: text-neutral
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >+
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-
+    subtitle: ''
+    text: |
+      Chocolates artesanais feitos como jóias gastronômicas.
     actions:
       - label: Comprar agora
         altText: ''
@@ -24,14 +21,11 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: >-
+        /images/assortment-of-fine-chocolate-candies-white-dark-ZACYJ93-1200x800.jpg
+      altText: Pistachioland - La Mason du Chocolat
       elementId: ''
       type: ImageBlock
-    badge:
-      label: Home
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -46,9 +40,9 @@ sections:
       subtitle:
         fontWeight: 700
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Pistachio
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
   type: Seo
+  socialImage: /images/assortment-of-fine-chocolate-candies-white-dark-ZACYJ93-1200x800.jpg
 type: PageLayout
 ---

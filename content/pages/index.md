@@ -179,8 +179,7 @@ sections:
         features:
           - >-
             Feitos com os melhores ingredientes, os recheios incluem ganaches de
-            cappuccino e rum, pralinés tradicionais aveludados e suaves,
-            caramelos
+            cappuccino e rum, pralinés tradicionais suaves e caramelos.
         image:
           type: ImageBlock
           url: >-

@@ -132,7 +132,7 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/AMELIE_6058_-_8_FOILED_CHERRY_LIQUEURS__46901_zoom.png
           altText: Pricing plan 3
         actions:
           - type: Button
